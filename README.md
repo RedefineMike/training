@@ -1,3 +1,7 @@
+# Notice: Catalyze is now Datica! Please note that this repository has moved to [daticahealth/training](https://github.com/daticahealth/training).
+
+---
+
 # Datica HIPAA Training Docs
 
 ![status](https://codeship.com/projects/11f09820-66f6-0133-fd05-5ef847086c15/status?branch=master)
