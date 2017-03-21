@@ -5,7 +5,7 @@ This is to ensure that you know whom to reach out to in case you have any questi
 Who is the Chief Privacy Officer?
 
 - <input type="checkbox"> Vincent Kenney
-- <input type="checkbox"> Mohan Balachandran
+- <input type="checkbox"> Casey Bryson
 - <input type="checkbox"> Adam Leko
 - <input type="checkbox"> Travis Good
 
@@ -16,8 +16,8 @@ Who is the Chief Privacy Officer?
 
 Who is the Chief Security Officer?
 
-- <input type="checkbox"> Mike Ortiz
-- <input type="checkbox"> Mohan Balachandran
+- <input type="checkbox"> Mark Olschesky
+- <input type="checkbox"> Vincent Kenney
 - <input type="checkbox"> Adam Leko
 - <input type="checkbox"> Travis Good
 
