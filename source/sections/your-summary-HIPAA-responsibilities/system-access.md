@@ -12,3 +12,4 @@ Since we manage critical systems potentially containing sensitive PHI informatio
    - Under no circumstances are you to share your password with anyone else, either inside or outside of the company.
 5. Ensure your personal workstation is set to log you off and / or lock if you step away from it.
 6. Do not use your laptop for any illegal or harmful activities. If you're not sure, don't do it.
+7. As a Datica employee, any actions performed on your laptop or production systems will be monitored to ensure compliance with Datica's security policies. You must consent to this monitoring in order to use these resources.
