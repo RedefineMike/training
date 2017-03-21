@@ -57,3 +57,9 @@ In certain extreme HIPAA cases, individuals can be exposed to criminal risk as w
 
 
 [id1]: https://draftin.com/images/12897?token=u4jMFh1lHh8Ycv6PsEjz0ZTSsmpb2m9LajjGDEYA6oal_ssjSjpzKl8zwTgDRO2UQGRN4Yj_SXdXnDvAJNUFh4s "HIPAA Financial Penalties"
+
+## HITRUST
+
+Since Datica is committed to protecting sensitive data, we have sought external verification of our policies and methods. The most comprehensive certification in the industry for health-related security controls is the certification for the Common Security Framework (CSF) put forward by the HITRUST organization. This can be thought of as a more prescriptive version of HIPAA.
+
+The CSF was created because of the large number of compliance and risk controls aimed at the healthcare industry. These laws and frameworks overlap significantly and contradict one another in some ways. By standardizing across HIPAA, NIST, PCI, and ISO, HITRUST aims to reduce the burden of compliance on organizations by providing one set of standards to cover all of these requirements.
