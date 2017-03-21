@@ -1,4 +1,4 @@
-# Key contacts and roles
+# Key Contacts and Roles
 
 Datica has a Security Officer and Privacy Officer appointed to assist in maintaining and enforcing safeguards towards compliance.
 

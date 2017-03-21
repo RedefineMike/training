@@ -1,13 +1,13 @@
-# Why all the fuss about HIPAA
+# Why All the Fuss About HIPAA
 
 Well, for three key reasons:
 
-###1. It is the right thing to do
+###1. It Is the Right Thing to Do
 
-###2. The cloud
+###2. The Cloud
 With an increasing move to this amorphous entity called the cloud, with its associated technical complexities, security and privacy guidelines / standards need to be put into place.
 
-###3. There are heavy penalties for violating it
+###3. There Are Heavy Penalties for Violating It
 
 If the OCR (Office for Civil Rights) finds an organization to be in violation, the following actions may take place:
 - Voluntary compliance;

@@ -17,7 +17,7 @@ We devoted an entire post to "[What is PHI?](https://datica.com/learn/what-is-pr
 
 PHI can be de-identified by removing certain elements from the data, in a process called the [Safe Harbor](http://www.hhs.gov/ocr/privacy/hipaa/understanding/coveredentities/De-identification/guidance.html#safeharborguidance) method, or through "[expert determination](http://www.hhs.gov/ocr/privacy/hipaa/understanding/coveredentities/De-identification/guidance.html#guidancedetermination)", which seems a bit fuzzy to us as it is ripe for interpretation. The idea with both methods for de-identification is to make it so you can't identify an individual from a data set (duh!).
 
-##Use or disclosing of PHI
+##Use or Disclosing of PHI
 PHI can only be disclosed for reasons defined by the Privacy Rule, or with written permission by an individual about their own health information. Other than providing access to the individual to his/her medical record, the Privacy Rule allows for disclosing PHI for three main reasons:
 
 1. *Treatment.* Probably the most obvious reason for disclosure, exchanging PHI between providers for treatment, management, and consultation happens all the time.
@@ -28,7 +28,7 @@ There are some other, more obscure reasons for disclosures. The most relevant re
 
 In some select cases, in particular marketing, covered entities may disclose PHI, but only with authorization from the individual.
 
-##Minimum necessary
+##Minimum Necessary
 One of the central tenants of HIPAA, as stated in the Privacy Rule, is minimum necessary use of PHI. The idea is relatively simple, don't disclose any information that is not necessary for the reason for which the information is to be used. Example - if you're trying to find out how much a patient owes for a particular procedure, you probably don't need to disclose that patient's allergies. In healthcare today minimum necessary is usually observed by either specific HL7 or EDI X12 message types, which confine the amount and type of data in a data exchange.
 
 ##Notice of Privacy Policies
