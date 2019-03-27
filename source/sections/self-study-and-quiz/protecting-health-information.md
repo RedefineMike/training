@@ -79,13 +79,13 @@ What are examples of protected health information that might be connected to an 
 
 - <input type="checkbox"> `Telephone number`
 - <input type="checkbox"> `Address`
-- <input type="checkbox"> `Zipcode`
+- <input type="checkbox"> `Zip code`
 - <input type="checkbox"> `Date of Birth`
 - <input type="checkbox"> `Gender`
 
 <div class="reveal-answer">
 	<button class="button">Reveal Answer</button>
-	<blockquote><p>Zipcodes (except for a small set) cannot be used to uniquely identify an individual. Neither can gender.</p></blockquote>
+	<blockquote><p>Zip codes (except for a small set) cannot be used to uniquely identify an individual. Neither can gender.</p></blockquote>
 </div>
 
 Who protects PHI?
